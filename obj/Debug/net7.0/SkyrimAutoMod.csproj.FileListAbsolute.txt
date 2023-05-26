@@ -1,0 +1,15 @@
+C:\Users\brayd\OneDrive\Documents\Coding world\Other Languages\C#\SkyrimAutoMod\bin\Debug\net7.0\SkyrimAutoMod.exe
+C:\Users\brayd\OneDrive\Documents\Coding world\Other Languages\C#\SkyrimAutoMod\bin\Debug\net7.0\SkyrimAutoMod.deps.json
+C:\Users\brayd\OneDrive\Documents\Coding world\Other Languages\C#\SkyrimAutoMod\bin\Debug\net7.0\SkyrimAutoMod.runtimeconfig.json
+C:\Users\brayd\OneDrive\Documents\Coding world\Other Languages\C#\SkyrimAutoMod\bin\Debug\net7.0\SkyrimAutoMod.dll
+C:\Users\brayd\OneDrive\Documents\Coding world\Other Languages\C#\SkyrimAutoMod\bin\Debug\net7.0\SkyrimAutoMod.pdb
+C:\Users\brayd\OneDrive\Documents\Coding world\Other Languages\C#\SkyrimAutoMod\obj\Debug\net7.0\SkyrimAutoMod.csproj.AssemblyReference.cache
+C:\Users\brayd\OneDrive\Documents\Coding world\Other Languages\C#\SkyrimAutoMod\obj\Debug\net7.0\SkyrimAutoMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brayd\OneDrive\Documents\Coding world\Other Languages\C#\SkyrimAutoMod\obj\Debug\net7.0\SkyrimAutoMod.AssemblyInfoInputs.cache
+C:\Users\brayd\OneDrive\Documents\Coding world\Other Languages\C#\SkyrimAutoMod\obj\Debug\net7.0\SkyrimAutoMod.AssemblyInfo.cs
+C:\Users\brayd\OneDrive\Documents\Coding world\Other Languages\C#\SkyrimAutoMod\obj\Debug\net7.0\SkyrimAutoMod.csproj.CoreCompileInputs.cache
+C:\Users\brayd\OneDrive\Documents\Coding world\Other Languages\C#\SkyrimAutoMod\obj\Debug\net7.0\SkyrimAutoMod.dll
+C:\Users\brayd\OneDrive\Documents\Coding world\Other Languages\C#\SkyrimAutoMod\obj\Debug\net7.0\refint\SkyrimAutoMod.dll
+C:\Users\brayd\OneDrive\Documents\Coding world\Other Languages\C#\SkyrimAutoMod\obj\Debug\net7.0\SkyrimAutoMod.pdb
+C:\Users\brayd\OneDrive\Documents\Coding world\Other Languages\C#\SkyrimAutoMod\obj\Debug\net7.0\SkyrimAutoMod.genruntimeconfig.cache
+C:\Users\brayd\OneDrive\Documents\Coding world\Other Languages\C#\SkyrimAutoMod\obj\Debug\net7.0\ref\SkyrimAutoMod.dll
