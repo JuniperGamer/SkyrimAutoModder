@@ -4,9 +4,9 @@ Welcome to the Skyrim Auto Modder repository! This tool aims to streamline the i
 ### What to Expect
 Below is the checklist showing our current progress and future plans. Key: (x) = Completed, (o) = Planned
 
-- Auto detect between Anniversary Edition (AE) and Special Edition (SE) versions of Skyrim. (Currently only available for SE)
+- Auto detect between Anniversary Edition (AE) and Special Edition (SE) versions of Skyrim. (Currently only available for AE)
 - Auto download LOOT(x), SKSE(x), Unofficial Skyrim Patch(o), and SKSE Library (o).
-- Auto unpack and place mods and loaders in their respective folders. (o)
+- Auto unpack and place mods and loaders in their respective folders. (o, probabaly won't happen)
 - Detect if Skyrim is not installed on the C: drive but somewhere else. (o)
 ### Contributions
 We welcome and appreciate contributions to the Skyrim Auto Modder project! While we're mainly using C# for development, don't worry if you're not an expert – we value all input and assistance.
