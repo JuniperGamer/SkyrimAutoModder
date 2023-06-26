@@ -1,3 +1,5 @@
+#####     THIS PROJECT IS NO LONGER BEING UPDATED
+
 ### Introduction
 Welcome to the Skyrim Auto Modder repository! This tool aims to streamline the initial setup process for modding The Elder Scrolls V: Skyrim. It can be quite a hassle to manually download and set up all the prerequisite mods and tools needed for a specific Skyrim mod. The Skyrim Auto Modder takes care of these preliminary steps automatically, saving you time and effort.
 
